@@ -28,12 +28,6 @@
 
 - **Email:** mauriliodocarmo.job@gmail.com
 
-<p align="center">
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
-
-</p>
-
 ## Vamos Conversar!
 
 Sinta-se à vontade para me contatar para colaborações, feedbacks ou apenas para um papo sobre tecnologia! Estou sempre aberto a novas oportunidades e conexões.
