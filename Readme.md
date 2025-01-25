@@ -2,6 +2,8 @@
 
 ### Aqui você encontrará meus projetos, habilidades e contribuições!
 
+---
+
 ## 📈 Estatísticas do GitHub
 
 <div>
@@ -10,6 +12,8 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
   </a>
 </div>
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -20,6 +24,8 @@
   <img align="center" alt="Bash" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
 </div>
 
+---
+
 ## 📚 Banco de Dados
 
 <div style="display: flex; flex-wrap: wrap; gap: 20 px;">
@@ -28,6 +34,8 @@
   <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 </div>
+
+---
 
 ## 💭 Vamos Conversar!
 
