@@ -30,7 +30,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20 px;">
   <img align="center" alt="SQL Server" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />  
-  <img align="center" alt="Firebase" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" />
+  <img align="center" alt="Firebase" height="50" width="50" src="https://www.firebirdsql.org/file/about/ds-firebird-logo.svg" />
   <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 </div>
