@@ -42,4 +42,4 @@
 
 Sinta-se à vontade para me contatar para colaborações, feedbacks ou apenas para um papo sobre tecnologia! Estou sempre aberto a novas oportunidades e conexões.
 
-📍 Fortaleza | [<img align="center" alt="Linkedin" height="20" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maurilio-do-carmo/)  
+### 📍 Fortaleza | [<img align="center" alt="Linkedin" height="20" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maurilio-do-carmo/)  
