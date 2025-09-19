@@ -3,7 +3,7 @@
 ### Aqui você encontrará meus projetos, habilidades e contribuições!
 ### Analista de Suporte e DBA com foco em automações, scripts e controle de sistemas. Atuando com organização de processos técnicos e manutenção de bases.
 
-----
+---
 
 ## 📈 Estatísticas do GitHub
 
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-----
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -25,7 +25,7 @@
   <img align="center" alt="Bash" height="50" width="50" src="icons/bash.svg"/>
 </div>
 
-----
+---
 
 ## 📚 Banco de Dados
 
@@ -36,7 +36,7 @@
   <img align="center" alt="PostgreSQL" height="50" width="50" src="icons/postgresql.svg"/>
 </div>
 
-----
+---
 
 ## 💭 Vamos Conversar!
 
