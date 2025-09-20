@@ -43,4 +43,4 @@
 
 Sinta-se à vontade para me contatar para colaborações, feedbacks ou apenas para um papo sobre tecnologia! Estou sempre aberto a novas oportunidades e conexões.
 
-#### 📍 Fortaleza | [<img align="center" alt="Linkedin" height="20" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maurilio-do-carmo/)  
+### <img align="center" alt="Fortaleza" height="25" src="https://img.shields.io/badge/-Fortaleza-gray?style=for-the-badge&logo=google maps&logoColor=white"/> | [<img align="center" alt="Linkedin" height="25" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white"/>](https://www.linkedin.com/in/maurilio-do-carmo/) | [<img align="center" alt="Gmail" height="25" src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](https://mail.google.com/mail/?view=cm&to=mauriliodocarmo.job@gmail.com)  
