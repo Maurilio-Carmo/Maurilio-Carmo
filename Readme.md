@@ -6,10 +6,13 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-[![Estatísticas de Maurilio](https://github-readme-stats.vercel.app/api?username=Maurilio-Carmo&show_icons=true&theme=dark&locale=pt-br&border_radius=15#gh-dark-mode-only)](https://github.com/Maurilio-Carmo)
-[![Estatísticas de Maurilio](https://github-readme-stats.vercel.app/api?username=Maurilio-Carmo&show_icons=true&theme=default&locale=pt-br&border_radius=15#gh-light-mode-only)](https://github.com/Maurilio-Carmo)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&theme=dark&locale=pt-br&border_radius=15#gh-dark-mode-only)](https://github.com/Maurilio-Carmo)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&theme=default&locale=pt-br&border_radius=15#gh-light-mode-only)](https://github.com/Maurilio-Carmo)
+
+<div>
+  <a href="https://github.com/Maurilio-Carmo">
+    <img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api?username=Maurilio-Carmo&show_icons=true&theme=dark&locale=pt-br&border_radius=15" alt="GitHub Stats"/>
+    <img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&langs_count=8&theme=dark&locale=pt-br&border_radius=15" alt="Top Languages"/>
+  </a>
+</div>
 
 ---
 
