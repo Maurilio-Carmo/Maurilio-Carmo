@@ -20,9 +20,9 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20 px;">
   <img align="center" alt="C#" height="50" width="50" src="icons/csharp.svg" />
+  <img align="center" alt="javacript" height="50" width="50" src="icons/javascript.svg">
   <img align="center" alt="HTML" height="50" width="50" src="icons/html5.svg"/>
   <img align="center" alt="CSS" height="50" width="50" src="icons/css3.svg"/>
-  <img align="center" alt="Apps Script" height="50" width="50" src="icons/google_apps_script.svg">
   <img align="center" alt="Bash" height="50" width="50" src="icons/bash.svg"/>
 </div>
 
@@ -43,4 +43,4 @@
 
 Sinta-se à vontade para me contatar para colaborações, feedbacks ou apenas para um papo sobre tecnologia! Estou sempre aberto a novas oportunidades e conexões.
 
-### | [<img align="center" alt="Fortaleza" height="25" src="https://img.shields.io/badge/-Fortaleza-gray?style=for-the-badge&logo=google-maps&logoColor=white"/>](https://maps.app.goo.gl/Xva7bdkC14RnGzD99) | [<img align="center" alt="Linkedin" height="25" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white"/>](https://www.linkedin.com/in/maurilio-do-carmo/) | [<img align="center" alt="Gmail" height="25" src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](https://mail.google.com/mail/?view=cm&to=mauriliodocarmo.job@gmail.com) | 
+### | [<img align="center" alt="Fortaleza" height="25" src="https://img.shields.io/badge/-Fortaleza-gray?style=for-the-badge&logo=google-maps&logoColor=white"/>](https://maps.app.goo.gl/Xva7bdkC14RnGzD99) | [<img align="center" alt="Linkedin" height="25" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white"/>](https://www.linkedin.com/in/maurilio-do-carmo/) | [<img align="center" alt="Gmail" height="25" src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mauriliodocarmo.job@gmail.com) | 
