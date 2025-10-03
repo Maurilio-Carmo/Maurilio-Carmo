@@ -9,12 +9,8 @@
 
 <div>
   <a href="https://github.com/Maurilio-Carmo">
-    <!-- Dark Mode -->
-    <img height="160em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api?username=Maurilio-Carmo&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats Dark"/>
-    <img height="160em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" alt="Top Languages Dark"/>
-    <!-- Light Mode -->
-    <img height="160em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api?username=Maurilio-Carmo&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub Stats Light"/>
-    <img height="160em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&langs_count=8&theme=default#gh-light-mode-only" alt="Top Languages Light"/>
+    <img height="160em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api?username=Maurilio-Carmo&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
   </a>
 </div>
 
