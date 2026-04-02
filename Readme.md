@@ -19,8 +19,9 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 20 px;">
-  <img align="center" alt="C#" height="50" width="50" src="icons/csharp.svg" />
-  <img align="center" alt="javacript" height="50" width="50" src="icons/javascript.svg">
+  <img align="center" alt="C#" height="50" width="50" src="icons/csharp.svg"/>
+  <img align="center" alt="typescript" height="50" width="50" src="icons/typescript.svg"/>
+  <img align="center" alt="javascript" height="50" width="50" src="icons/javascript.svg"/>
   <img align="center" alt="HTML" height="50" width="50" src="icons/html5.svg"/>
   <img align="center" alt="CSS" height="50" width="50" src="icons/css3.svg"/>
   <img align="center" alt="Bash" height="50" width="50" src="icons/bash.svg"/>
