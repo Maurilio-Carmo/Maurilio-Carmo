@@ -34,6 +34,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20 px;">
   <img align="center" alt="SQL Server" height="50" width="50" src="icons/sqlserver.svg"/>
   <img align="center" alt="Firebase" height="50" width="50" src="icons/firebird.svg"/>
+  <img align="center" alt="Sqlite" height="50" width="50" src="icons/sqlite.svg"/>
   <img align="center" alt="MySQL" height="50" width="50" src="icons/mysql.svg"/>
   <img align="center" alt="PostgreSQL" height="50" width="50" src="icons/postgresql.svg"/>
 </div>
