@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/Maurilio-Carmo">
-    <img height="170em" src="https://github-stats-extended.vercel.app/api?username=Maurilio-Carmo&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br&border_radius=15" alt="GitHub Stats"/>
-    <img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&langs_count=8&theme=dark&locale=pt-br&border_radius=15" alt="Top Languages"/>
+    <img height="170em" src="https://github-stats-extended.vercel.app/api?username=Maurilio-Carmo&show_icons=true&include_all_commits=true&theme=github_dark&theme=dark&locale=pt-br&border_radius=15" alt="GitHub Stats"/>
+    <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Maurilio-Carmo&layout=compact&langs_count=8&theme=github_dark&locale=pt-br&border_radius=15" alt="Top Languages"/>
   </a>
 </div>
 
